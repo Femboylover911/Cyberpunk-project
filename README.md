@@ -1,1 +1,158 @@
-# Cyberpunk-project
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Cyberpunk 2077 y su crítica al capitalismo y desigualdad social">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyberpunk 2077: Crítica al Capitalismo y Desigualdad Social</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0d0d0d;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff0055;
+            padding: 15px;
+            text-align: center;
+            font-size: 26px;
+            font-weight: bold;
+        }
+        nav {
+            text-align: center;
+            margin: 15px 0;
+        }
+        nav a {
+            color: #ff0055;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #1a1a1a;
+            border-radius: 10px;
+        }
+        h1, h2, h3 {
+            color: #ff0055;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        footer {
+            background-color: #222;
+            color: #ccc;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        .contacto {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .btn-contacto {
+            background-color: #ff0055;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn-contacto:hover {
+            background-color: #ff3366;
+        }
+        iframe {
+            width: 100%;
+            height: 400px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        .video-container {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    Cyberpunk 2077: Crítica al Capitalismo y la Desigualdad Social
+</header>
+
+<nav>
+    <a href="#introduccion">Introducción</a>
+    <a href="#capitalismo">Capitalismo Extremo</a>
+    <a href="#corporaciones">Control Corporativo</a>
+    <a href="#desigualdad">Desigualdad Social</a>
+    <a href="#tecnologia">Tecnología y Alienación</a>
+    <a href="#paralelismos">Paralelismos con la Realidad</a>
+    <a href="#contacto">Contáctanos</a>
+</nav>
+
+<main>
+    <section id="introduccion">
+        <h1>Introducción</h1>
+        <p><em>Cyberpunk 2077</em> es un videojuego de rol de mundo abierto ambientado en la distópica Night City, una ciudad futurista plagada de corrupción, violencia y dominada por megacorporaciones que controlan todos los aspectos de la vida. El juego ofrece una crítica profunda al capitalismo desenfrenado, la desigualdad social y el poder corporativo que esclaviza a las masas.</p>
+        <p>Desde su lanzamiento, *Cyberpunk 2077* ha sido más que un simple juego de acción. Se convierte en un espejo del presente, donde el control tecnológico, la vigilancia masiva y la manipulación social son herramientas utilizadas por los poderosos para mantener su dominio.</p>
+        <img src="https://medialab.unmsm.edu.pe/chiqaqnews/wp-content/uploads/2021/01/Cyberpunk2077_Love_this_town_RGB-en-8aea899f.jpg" alt="Night City: Futuro Distópico">
+    </section>
+
+    <section id="capitalismo">
+        <h2>Capitalismo Extremo: Un Futuro Oscuro</h2>
+        <p>En Night City, el capitalismo extremo ha llevado a la privatización de todos los servicios públicos, incluyendo la seguridad, la salud y la justicia. Las corporaciones controlan no solo la economía, sino también la cultura y la ideología de la sociedad.</p>
+        <p>El concepto de “neocapitalismo” en <em>Cyberpunk 2077</em> muestra cómo las corporaciones han desplazado a los gobiernos, estableciendo un sistema donde los ricos viven en lujosas torres mientras los pobres sobreviven en barrios marginales plagados de crimen y desesperación.</p>
+        <img src="https://mir-s3-cdn-cf.behance.net/projects/404/087fb1200972599.Y3JvcCwyODA0LDIxOTMsMCw0MQ.png" alt="Control Corporativo en Night City">
+    </section>
+
+    <section id="corporaciones">
+        <h2>El Poder Corporativo en Night City</h2>
+        <p>Las megacorporaciones como Arasaka, Militech y Kang Tao no solo controlan la economía, sino también la información y los gobiernos. Estos gigantes económicos operan al margen de la ley, utilizando la violencia y el miedo para proteger sus intereses.</p>
+        <p>El juego retrata un mundo donde los ciudadanos están constantemente vigilados, sus datos son recopilados y utilizados para manipularlos a través de la publicidad y la desinformación. Esta vigilancia masiva es un reflejo de la sociedad actual, donde las grandes tecnológicas recopilan información privada para fines comerciales y políticos.</p>
+        <img src="https://i.ytimg.com/vi/IKNP-u6JvTQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCyk-Pr-Sybjb15ZsgV9tpjOKxNKQ" alt="Corporaciones Manipulando Night City">
+    </section>
+
+    <section id="desigualdad">
+        <h2>Desigualdad Social y Marginalización</h2>
+        <p>La brecha entre ricos y pobres en *Cyberpunk 2077* es abismal. Mientras las élites viven en rascacielos blindados, las clases bajas luchan por sobrevivir en barrios infestados de pandillas y violencia.</p>
+        <p>Los barrios marginales, conocidos como *The Badlands* y *Pacifica*, son ejemplos de cómo la desigualdad económica lleva a la creación de zonas sin ley, donde la pobreza y la desesperación obligan a las personas a recurrir a la violencia y el crimen.</p>
+        <img src="https://cdn.mos.cms.futurecdn.net/TMKKET6ertzuK7uiFGTJ98.jpg" alt="Desigualdad en Cyberpunk 2077">
+    </section>
+
+    <section id="tecnologia">
+        <h2>Tecnología y Deshumanización</h2>
+        <p>La obsesión por la tecnología ha llevado a una desconexión emocional y social en el mundo de *Cyberpunk 2077*. Los implantes cibernéticos, conocidos como “cyberware”, permiten a las personas mejorar sus capacidades físicas y cognitivas, pero a un alto costo.</p>
+        <p>El fenómeno de la <strong>Cyberpsychosis</strong> es una crítica directa a cómo la dependencia excesiva de la tecnología puede llevar a la pérdida de la identidad humana. Esta condición hace que los usuarios pierdan el control de sus emociones, volviéndose violentos y perdiendo su humanidad.</p>
+        <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-Cyberpsychosis-David-and-Maine-FEATURE.jpeg" alt="Cyberpsychosis y deshumanización">
+    </section>
+
+    <section id="paralelismos">
+        <h2>Paralelismos con la Sociedad Actual</h2>
+        <p>El mundo de *Cyberpunk 2077* no está tan alejado de la realidad. En el mundo moderno, las empresas tecnológicas como Google, Amazon y Meta controlan grandes cantidades de datos personales y tienen una enorme influencia sobre la sociedad y la política.</p>
+        <p>El aumento de la automatización, el control de datos y la vigilancia masiva reflejan la advertencia de <em>Cyberpunk 2077</em> sobre el peligro de permitir que las corporaciones acumulen demasiado poder. La dependencia excesiva de la tecnología y la inteligencia artificial también es un tema actual, donde la automatización reemplaza empleos y genera mayor desigualdad.</p>
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/8X2kIfS6fb8" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <div class="contacto" id="contacto">
+        <h2>Contáctanos</h2>
+        <p>Si deseas más información o quieres debatir sobre las implicaciones sociales de <em>Cyberpunk 2077</em>, ¡contáctanos!</p>
+        <a href="mailto:info@cyberpunkcritica.com" class="btn-contacto">Contáctanos</a>
+    </div>
+</main>
+
+<footer>
+    © 2025 Cyberpunk Crítica Social. Todos los derechos reservados.
+</footer>
+
+</body>
+</html>
